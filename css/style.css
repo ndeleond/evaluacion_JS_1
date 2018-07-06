@@ -1,0 +1,23 @@
+*{
+    margin: 0; padding: 0;
+}
+body{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+div{
+    max-width: 1000px;
+    width: 85%;
+    background-color: rgb(173, 192, 255);
+}
+p{
+    text-align: justify;
+    background-color: #cbc8f867;
+}
+
+.btn{
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+    margin-bottom: 10px;
+}
